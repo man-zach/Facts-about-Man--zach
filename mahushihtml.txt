@@ -1,10 +1,12 @@
-<<!DOCTYPE>
+<!DOCTYPE>
 <html>
 <HEAD>
-	<TITLE>FACTS ABOUT ME</TITLE>
+	<TITLE>BRIFE BIBLIOGRAPHY</TITLE>
 </HEAD>
 
 <BODY>
+	<h1> FACTS ABOUT  MAN ZAKA</h1>
+
 	<h2>EDUCATIONAL BACKGROUND.</h2>
 <p>I am a university student currently doing bachelor of science in Business
 Information Technology after my advanced, secondary and primary education
