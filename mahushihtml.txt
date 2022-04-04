@@ -1,19 +1,19 @@
-<!DOCTYPE>
+<<!DOCTYPE>
 <html>
 <HEAD>
 	<TITLE>FACTS ABOUT ME</TITLE>
 </HEAD>
 
 <BODY>
-	<P>EDUCATIONAL BACKGROUND.
-I am a university student currently doing bachelor of science in Business
+	<h2>EDUCATIONAL BACKGROUND.</h2>
+<p>I am a university student currently doing bachelor of science in Business
 Information Technology after my advanced, secondary and primary education
 at Simba wa Yuda Academy </P>
 
-       <P> FAVORATE PROGRAMMING LANGUAGE.
-My best programming language is C due to the fact that its abit easy to use.</P>
+       <h2> FAVORATE PROGRAMMING LANGUAGE.</h2>
+<p>My best programming language is C due to the fact that its abit easy to use.</P>
 
-        <P>FUTURE GOALS.
-I would realy wish to be an IT expert not only in Tanzania but as well as outside the bounderies of Tanzania.</P>
+        <h2>FUTURE GOALS.</h2>
+<p>I would realy wish to be an IT expert not only in Tanzania but as well as outside the bounderies of Tanzania.</P>
 </BODY>
 </html>
